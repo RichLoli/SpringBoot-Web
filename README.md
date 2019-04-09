@@ -1,0 +1,10 @@
+# SpringBoot-Web
+SpringBoot的Web应用Demo
+使用thymeleaf模板引擎做视图渲染
+使用Webjar的方式引用Web框架
+增删查改见面渲染
+SpringBoot的日期格式化配置
+SpringBoot的全局异常处理，根据不同设备返回不同异常数据格式
+SpringBoot中配置拦截器
+SpringBoot使用Java类配置SpringMVC
+SpringBoot注册三大组件
